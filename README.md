@@ -1,4 +1,4 @@
-# `Desafio EloGroup para Gerenciamento de Leads`
+ `Desafio EloGroup para Gerenciamento de Leads`
 
 # `Descrição do Projeto`
 
