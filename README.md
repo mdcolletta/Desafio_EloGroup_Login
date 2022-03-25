@@ -10,8 +10,8 @@
   - Tela para gerenciamento de leads
   - Tela de cadastro de leads
   
-# `Iniciando o projeto`
+# `Iniciando o Projeto`
 
 Para utilizar o projeto basta clonar o repositório e no terminal utilizar o comando "npm i". 
-Feito isso, utilize o "npm start" para iniciar o projeto em [http://localhost:3000].
+Feito isso, utilize o "npm start" para iniciar o projeto em - [http://localhost:3000].
 
