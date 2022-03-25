@@ -18,12 +18,13 @@ bem como os novos usuários criados
 
 - Aplicação foi desenvolvida em React para o processo seletivo da vaga de 'Desenvolvedor Jr'.
 
-  Desenvolvimento de um frontend de uma aplicação para gerenciamento de leads. 
+- Desenvolvimento de um frontend de uma aplicação para gerenciamento de leads. 
   
-  O Projeto inclui: 
-  1 - Tela de cadastro de usuário (com validações)
-  2 - Tela para gerenciamento de leads
-  3 - Tela de cadastro de leads
+  `O Projeto inclui:` 
+
+   - Tela de cadastro de usuário (com validações)
+   - Tela para gerenciamento de leads
+   - Tela de cadastro de leads
   
  `Iniciando o Projeto`
 
