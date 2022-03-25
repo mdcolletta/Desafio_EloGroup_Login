@@ -1,4 +1,4 @@
-import logo from '../assets/elogroup.png';
+import logo from '../assets/elogroup.jpg';
 import '../styles/AddLeadStyle.css'
 
 export default function AddLeadView(props) {
@@ -8,7 +8,7 @@ export default function AddLeadView(props) {
     <div className="modal">
       <div className="modal__header">
         <img src={logo} alt="" />
-        <h1>Novo Lead</h1>
+        <h2>Novo Lead</h2>
       </div>
       
       <form className="modal__form">

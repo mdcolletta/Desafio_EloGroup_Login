@@ -20,17 +20,17 @@ export default function Register() {
     }
 
     if (!specialCharacters.some(c => passwordCharacters.includes(c))) {
-      setErrorMessage('A senha deve conter ao menos um caractere especial.');
+      setErrorMessage('A senha deve conter ao menos um caractere especial!');
       return false;
     }
 
     if (!passwordCharacters.some(c => !isNaN(parseInt(c)))) {
-      setErrorMessage('A senha deve conter ao menos um caractere numérico.');
+      setErrorMessage('A senha deve conter ao menos um caractere numérico!');
       return false;
     }
 
     if (!passwordCharacters.some(c => c.toUpperCase() !== c.toLocaleLowerCase())) {
-      setErrorMessage('A senha deve conter ao menos uma letra.');
+      setErrorMessage('A senha deve conter ao menos uma letra!');
       return false;
     }
     return true;

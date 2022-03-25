@@ -1,4 +1,4 @@
-import logo from '../assets/elogroup.png';
+import logo from '../assets/elogroup.jpg';
 import AddLead from '../controllers/AddLead';
 import '../styles/LeadsTableStyle.css';
 import Column from '../controllers/Column';
@@ -9,7 +9,7 @@ export default function LeadsView({ stages, savedLead, setSavedLead, handleClick
     <div>
       <header className="header">
         <img src={logo} alt="" />
-        <h1>Painel de Leads</h1>
+        <h2>Painel de Leads</h2>
       </header>
       <button className="new-lead__button" onClick={handleClick}>Novo Lead (+)</button>
       <table className="table" >
